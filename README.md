@@ -8,4 +8,4 @@ For this assignment you will work in a group and with the given code in canvas:
 * Make sure to write comments where you add this.  Write your names at the top of the program as comments, and one person from your group will turn in your code.
 * You can use your Group Canvas workspace to organize, share and write finish this together as a group.  Group points are given for working well in your group.
 
-Turn in your source code for this assignment, which should be at least 2 Files.  Turn these in via this github classroom repo you made.  All group members can turn in the same code since this is a group repo.
+Turn in your source code for this assignment, which should be at least 2 Files.  Turn these in via this github classroom repo you made.  All group members can turn in the same code since this is a group repo, but each person should turn in the code to their cloned repo.
